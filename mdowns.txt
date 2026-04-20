@@ -1,0 +1,579 @@
+--- Cell 0 ---
+# **Project Name**    -
+
+
+--- Cell 1 ---
+##### **Project Type**    - EDA/Regression/Classification/Unsupervised
+##### **Contribution**    - Individual/Team
+##### **Team Member 1 -**
+##### **Team Member 2 -**
+##### **Team Member 3 -**
+##### **Team Member 4 -**
+--- Cell 2 ---
+# **Project Summary -**
+--- Cell 3 ---
+Write the summary here within 500-600 words.
+--- Cell 4 ---
+# **GitHub Link -**
+--- Cell 5 ---
+Provide your GitHub Link here.
+--- Cell 6 ---
+# **Problem Statement**
+
+--- Cell 7 ---
+**Write Problem Statement Here.**
+--- Cell 8 ---
+# **General Guidelines** : -  
+--- Cell 9 ---
+1.   Well-structured, formatted, and commented code is required.
+2.   Exception Handling, Production Grade Code & Deployment Ready Code will be a plus. Those students will be awarded some additional credits.
+     
+     The additional credits will have advantages over other students during Star Student selection.
+       
+             [ Note: - Deployment Ready Code is defined as, the whole .ipynb notebook should be executable in one go
+                       without a single error logged. ]
+
+3.   Each and every logic should have proper comments.
+4. You may add as many number of charts you want. Make Sure for each and every chart the following format should be answered.
+        
+
+```
+# Chart visualization code
+```
+            
+
+*   Why did you pick the specific chart?
+*   What is/are the insight(s) found from the chart?
+* Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+
+5. You have to create at least 15 logical & meaningful charts having important insights.
+
+
+[ Hints : - Do the Vizualization in  a structured way while following "UBM" Rule.
+
+U - Univariate Analysis,
+
+B - Bivariate Analysis (Numerical - Categorical, Numerical - Numerical, Categorical - Categorical)
+
+M - Multivariate Analysis
+ ]
+
+
+
+
+
+6. You may add more ml algorithms for model creation. Make sure for each and every algorithm, the following format should be answered.
+
+
+*   Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+
+
+*   Cross- Validation & Hyperparameter Tuning
+
+*   Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+
+*   Explain each evaluation metric's indication towards business and the business impact pf the ML model used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- Cell 10 ---
+# ***Let's Begin !***
+--- Cell 11 ---
+## ***1. Know Your Data***
+--- Cell 12 ---
+### Import Libraries
+--- Cell 14 ---
+### Dataset Loading
+--- Cell 16 ---
+### Dataset First View
+--- Cell 18 ---
+### Dataset Rows & Columns count
+--- Cell 20 ---
+### Dataset Information
+--- Cell 22 ---
+#### Duplicate Values
+--- Cell 24 ---
+#### Missing Values/Null Values
+--- Cell 27 ---
+### What did you know about your dataset?
+--- Cell 28 ---
+Answer Here
+--- Cell 29 ---
+## ***2. Understanding Your Variables***
+--- Cell 32 ---
+### Variables Description
+--- Cell 33 ---
+Answer Here
+--- Cell 34 ---
+### Check Unique Values for each variable.
+--- Cell 36 ---
+## 3. ***Data Wrangling***
+--- Cell 37 ---
+### Data Wrangling Code
+--- Cell 39 ---
+### What all manipulations have you done and insights you found?
+--- Cell 40 ---
+Answer Here.
+--- Cell 41 ---
+## ***4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables***
+--- Cell 42 ---
+#### Chart - 1
+--- Cell 44 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 45 ---
+Answer Here.
+--- Cell 46 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 47 ---
+Answer Here
+--- Cell 48 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 49 ---
+Answer Here
+--- Cell 50 ---
+#### Chart - 2
+--- Cell 52 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 53 ---
+Answer Here.
+--- Cell 54 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 55 ---
+Answer Here
+--- Cell 56 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 57 ---
+Answer Here
+--- Cell 58 ---
+#### Chart - 3
+--- Cell 60 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 61 ---
+Answer Here.
+--- Cell 62 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 63 ---
+Answer Here
+--- Cell 64 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 65 ---
+Answer Here
+--- Cell 66 ---
+#### Chart - 4
+--- Cell 68 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 69 ---
+Answer Here.
+--- Cell 70 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 71 ---
+Answer Here
+--- Cell 72 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 73 ---
+Answer Here
+--- Cell 74 ---
+#### Chart - 5
+--- Cell 76 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 77 ---
+Answer Here.
+--- Cell 78 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 79 ---
+Answer Here
+--- Cell 80 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 81 ---
+Answer Here
+--- Cell 82 ---
+#### Chart - 6
+--- Cell 84 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 85 ---
+Answer Here.
+--- Cell 86 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 87 ---
+Answer Here
+--- Cell 88 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 89 ---
+Answer Here
+--- Cell 90 ---
+#### Chart - 7
+--- Cell 92 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 93 ---
+Answer Here.
+--- Cell 94 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 95 ---
+Answer Here
+--- Cell 96 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 97 ---
+Answer Here
+--- Cell 98 ---
+#### Chart - 8
+--- Cell 100 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 101 ---
+Answer Here.
+--- Cell 102 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 103 ---
+Answer Here
+--- Cell 104 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 105 ---
+Answer Here
+--- Cell 106 ---
+#### Chart - 9
+--- Cell 108 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 109 ---
+Answer Here.
+--- Cell 110 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 111 ---
+Answer Here
+--- Cell 112 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 113 ---
+Answer Here
+--- Cell 114 ---
+#### Chart - 10
+--- Cell 116 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 117 ---
+Answer Here.
+--- Cell 118 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 119 ---
+Answer Here
+--- Cell 120 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 121 ---
+Answer Here
+--- Cell 122 ---
+#### Chart - 11
+--- Cell 124 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 125 ---
+Answer Here.
+--- Cell 126 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 127 ---
+Answer Here
+--- Cell 128 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 129 ---
+Answer Here
+--- Cell 130 ---
+#### Chart - 12
+--- Cell 132 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 133 ---
+Answer Here.
+--- Cell 134 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 135 ---
+Answer Here
+--- Cell 136 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 137 ---
+Answer Here
+--- Cell 138 ---
+#### Chart - 13
+--- Cell 140 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 141 ---
+Answer Here.
+--- Cell 142 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 143 ---
+Answer Here
+--- Cell 144 ---
+##### 3. Will the gained insights help creating a positive business impact?
+Are there any insights that lead to negative growth? Justify with specific reason.
+--- Cell 145 ---
+Answer Here
+--- Cell 146 ---
+#### Chart - 14 - Correlation Heatmap
+--- Cell 148 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 149 ---
+Answer Here.
+--- Cell 150 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 151 ---
+Answer Here
+--- Cell 152 ---
+#### Chart - 15 - Pair Plot
+--- Cell 154 ---
+##### 1. Why did you pick the specific chart?
+--- Cell 155 ---
+Answer Here.
+--- Cell 156 ---
+##### 2. What is/are the insight(s) found from the chart?
+--- Cell 157 ---
+Answer Here
+--- Cell 158 ---
+## ***5. Hypothesis Testing***
+--- Cell 159 ---
+### Based on your chart experiments, define three hypothetical statements from the dataset. In the next three questions, perform hypothesis testing to obtain final conclusion about the statements through your code and statistical testing.
+--- Cell 160 ---
+Answer Here.
+--- Cell 161 ---
+### Hypothetical Statement - 1
+--- Cell 162 ---
+#### 1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+--- Cell 163 ---
+Answer Here.
+--- Cell 164 ---
+#### 2. Perform an appropriate statistical test.
+--- Cell 166 ---
+##### Which statistical test have you done to obtain P-Value?
+--- Cell 167 ---
+Answer Here.
+--- Cell 168 ---
+##### Why did you choose the specific statistical test?
+--- Cell 169 ---
+Answer Here.
+--- Cell 170 ---
+### Hypothetical Statement - 2
+--- Cell 171 ---
+#### 1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+--- Cell 172 ---
+Answer Here.
+--- Cell 173 ---
+#### 2. Perform an appropriate statistical test.
+--- Cell 175 ---
+##### Which statistical test have you done to obtain P-Value?
+--- Cell 176 ---
+Answer Here.
+--- Cell 177 ---
+##### Why did you choose the specific statistical test?
+--- Cell 178 ---
+Answer Here.
+--- Cell 179 ---
+### Hypothetical Statement - 3
+--- Cell 180 ---
+#### 1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+--- Cell 181 ---
+Answer Here.
+--- Cell 182 ---
+#### 2. Perform an appropriate statistical test.
+--- Cell 184 ---
+##### Which statistical test have you done to obtain P-Value?
+--- Cell 185 ---
+Answer Here.
+--- Cell 186 ---
+##### Why did you choose the specific statistical test?
+--- Cell 187 ---
+Answer Here.
+--- Cell 188 ---
+## ***6. Feature Engineering & Data Pre-processing***
+--- Cell 189 ---
+### 1. Handling Missing Values
+--- Cell 191 ---
+#### What all missing value imputation techniques have you used and why did you use those techniques?
+--- Cell 192 ---
+Answer Here.
+--- Cell 193 ---
+### 2. Handling Outliers
+--- Cell 195 ---
+##### What all outlier treatment techniques have you used and why did you use those techniques?
+--- Cell 196 ---
+Answer Here.
+--- Cell 197 ---
+### 3. Categorical Encoding
+--- Cell 199 ---
+#### What all categorical encoding techniques have you used & why did you use those techniques?
+--- Cell 200 ---
+Answer Here.
+--- Cell 201 ---
+### 4. Textual Data Preprocessing
+(It's mandatory for textual dataset i.e., NLP, Sentiment Analysis, Text Clustering etc.)
+--- Cell 202 ---
+#### 1. Expand Contraction
+--- Cell 204 ---
+#### 2. Lower Casing
+--- Cell 206 ---
+#### 3. Removing Punctuations
+--- Cell 208 ---
+#### 4. Removing URLs & Removing words and digits contain digits.
+--- Cell 210 ---
+#### 5. Removing Stopwords & Removing White spaces
+--- Cell 213 ---
+#### 6. Rephrase Text
+--- Cell 215 ---
+#### 7. Tokenization
+--- Cell 217 ---
+#### 8. Text Normalization
+--- Cell 219 ---
+##### Which text normalization technique have you used and why?
+--- Cell 220 ---
+Answer Here.
+--- Cell 221 ---
+#### 9. Part of speech tagging
+--- Cell 223 ---
+#### 10. Text Vectorization
+--- Cell 225 ---
+##### Which text vectorization technique have you used and why?
+--- Cell 226 ---
+Answer Here.
+--- Cell 227 ---
+### 4. Feature Manipulation & Selection
+--- Cell 228 ---
+#### 1. Feature Manipulation
+--- Cell 230 ---
+#### 2. Feature Selection
+--- Cell 232 ---
+##### What all feature selection methods have you used  and why?
+--- Cell 233 ---
+Answer Here.
+--- Cell 234 ---
+##### Which all features you found important and why?
+--- Cell 235 ---
+Answer Here.
+--- Cell 236 ---
+### 5. Data Transformation
+--- Cell 237 ---
+#### Do you think that your data needs to be transformed? If yes, which transformation have you used. Explain Why?
+--- Cell 239 ---
+### 6. Data Scaling
+--- Cell 241 ---
+##### Which method have you used to scale you data and why?
+--- Cell 242 ---
+### 7. Dimesionality Reduction
+--- Cell 243 ---
+##### Do you think that dimensionality reduction is needed? Explain Why?
+--- Cell 244 ---
+Answer Here.
+--- Cell 246 ---
+##### Which dimensionality reduction technique have you used and why? (If dimensionality reduction done on dataset.)
+--- Cell 247 ---
+Answer Here.
+--- Cell 248 ---
+### 8. Data Splitting
+--- Cell 250 ---
+##### What data splitting ratio have you used and why?
+--- Cell 251 ---
+Answer Here.
+--- Cell 252 ---
+### 9. Handling Imbalanced Dataset
+--- Cell 253 ---
+##### Do you think the dataset is imbalanced? Explain Why.
+--- Cell 254 ---
+Answer Here.
+--- Cell 256 ---
+##### What technique did you use to handle the imbalance dataset and why? (If needed to be balanced)
+--- Cell 257 ---
+Answer Here.
+--- Cell 258 ---
+## ***7. ML Model Implementation***
+--- Cell 259 ---
+### ML Model - 1
+--- Cell 261 ---
+#### 1. Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+--- Cell 263 ---
+#### 2. Cross- Validation & Hyperparameter Tuning
+--- Cell 265 ---
+##### Which hyperparameter optimization technique have you used and why?
+--- Cell 266 ---
+Answer Here.
+--- Cell 267 ---
+##### Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+--- Cell 268 ---
+Answer Here.
+--- Cell 269 ---
+### ML Model - 2
+--- Cell 270 ---
+#### 1. Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+--- Cell 272 ---
+#### 2. Cross- Validation & Hyperparameter Tuning
+--- Cell 274 ---
+##### Which hyperparameter optimization technique have you used and why?
+--- Cell 275 ---
+Answer Here.
+--- Cell 276 ---
+##### Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+--- Cell 277 ---
+Answer Here.
+--- Cell 278 ---
+#### 3. Explain each evaluation metric's indication towards business and the business impact pf the ML model used.
+--- Cell 279 ---
+Answer Here.
+--- Cell 280 ---
+### ML Model - 3
+--- Cell 282 ---
+#### 1. Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+--- Cell 284 ---
+#### 2. Cross- Validation & Hyperparameter Tuning
+--- Cell 286 ---
+##### Which hyperparameter optimization technique have you used and why?
+--- Cell 287 ---
+Answer Here.
+--- Cell 288 ---
+##### Have you seen any improvement? Note down the improvement with updates Evaluation metric Score Chart.
+--- Cell 289 ---
+Answer Here.
+--- Cell 290 ---
+### 1. Which Evaluation metrics did you consider for a positive business impact and why?
+--- Cell 291 ---
+Answer Here.
+--- Cell 292 ---
+### 2. Which ML model did you choose from the above created models as your final prediction model and why?
+--- Cell 293 ---
+Answer Here.
+--- Cell 294 ---
+### 3. Explain the model which you have used and the feature importance using any model explainability tool?
+--- Cell 295 ---
+Answer Here.
+--- Cell 296 ---
+## ***8.*** ***Future Work (Optional)***
+--- Cell 297 ---
+### 1. Save the best performing ml model in a pickle file or joblib file format for deployment process.
+
+--- Cell 299 ---
+### 2. Again Load the saved model file and try to predict unseen data for a sanity check.
+
+--- Cell 301 ---
+### ***Congrats! Your model is successfully created and ready for deployment on a live server for a real user interaction !!!***
+--- Cell 302 ---
+# **Conclusion**
+--- Cell 303 ---
+Write the conclusion here.
+--- Cell 304 ---
+### ***Hurrah! You have successfully completed your Machine Learning Capstone Project !!!***
