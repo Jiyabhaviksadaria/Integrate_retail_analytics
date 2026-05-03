@@ -51,5 +51,29 @@ Through comprehensive modeling, several foundational insights were mathematicall
 - Initial CSV datasets (`sales data-set.csv`, `stores data-set.csv`, `Features data set.csv`).
 
 ---
+## 🖥 Interactive Analytics Dashboard [NEW]
+
+The repository now includes a full-stack interactive dashboard to visualize sales trends and perform real-time forecasting.
+
+### Features:
+- **Real-time Forecasting**: Input store and environmental parameters to get instant sales predictions from the Random Forest model.
+- **Dynamic Trends**: Visualize average weekly sales trends across months and store types.
+- **Modern UI**: Dark-themed, glassmorphic dashboard built with React and Vite.
+
+### How to Run:
+
+1. **Backend (FastAPI)**:
+   ```bash
+   cd backend
+   python main.py
+   ```
+2. **Frontend (Vite + React)**:
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
+
+---
 **Author**: Jiya Sadaria  
 **Type**: Supervised Machine Learning Capstone - Regression Analysis
